@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "naumovs.color-highlight"
+        "naumovs.color-highlight",
+        "aaravb.chrome-extension-developer-tools"
     ]
 }
